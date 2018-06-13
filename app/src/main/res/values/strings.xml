@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrentLocationNearbyPlacesAndroidExampleApp</string>
+    <string name="title_activity_maps">Exemplo API Google Places</string>
+</resources>
